@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-homework",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexandra-Shyshkovskaya/nodejs-homework.git"
+  },
+  "author": "Alexandra Shyshkovskaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexandra-Shyshkovskaya/nodejs-homework/issues"
+  },
+  "homepage": "https://github.com/Alexandra-Shyshkovskaya/nodejs-homework#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
